@@ -37,5 +37,9 @@
     "undici": "5.22.1",
     "vite": "4.4.7",
     "vite-tsconfig-paths": "4.2.0"
+  },
+  "dependencies": {
+    "jose": "^4.14.6",
+    "pg": "^8.11.3"
   }
 }
